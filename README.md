@@ -50,13 +50,12 @@ The sectors where the case is clearest: engineering workshops, small manufacture
 
 **Elsewhere**
 Website — 
-missionai.ai
+https://missionai.ai
 Mission AI Labs — 
-missionai.ai/mission-labs
+https://missionai.ai/mission-labs
 Mission Log — 
-missionai.ai/mission-log
+https://missionai.ai/mission-log
 Live dashboard — 
-missioncore.missionai.ai/sensors
-LinkedIn — 
-Mission AI on LinkedIn
+https://missioncore.missionai.ai/sensors
+
 Email — hello@missionai.uk
